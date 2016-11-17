@@ -1,4 +1,4 @@
-# All Hands On Deck Home Repository
+# All Hands On Deck IoT Demo - Home Repository
 ## Home repository for the IMAPEX All Hands On Deck IoT demo
 
 ### Associated repos
