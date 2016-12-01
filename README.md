@@ -11,7 +11,7 @@
 
 #### Phase 1 Diagram
 
-![Diagram](images/AHOD_Overview.png) 
+![Diagram](images/AHOD_Overview-Phase1.png) 
 
 ### Future phases of this project will trigger an event to initiate a video call into the Spark room to view the area associated with the PLC.
 
