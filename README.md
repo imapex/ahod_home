@@ -17,4 +17,4 @@
 
 #### Future Phase Diagram
 
-![Diagram](images/AHOD_Overview-Phase2.png) 
+![Diagram](images/AHOD_Overview-Phase-2.png) 
