@@ -5,9 +5,10 @@
 
 #### In order to build this demo the following steps are required
 * Note: A Mantle environment must exist (members of IMAPEX have access to an environment)
-* Step 1. Create and build the docker container on Mantle by following the instructions in [Web Service Container Build scripts](https://github.com/imapex/ahod_websvc)
-* Step 2. Deploy the [Web Service Application](https://github.com/imapex/ahod_webapp) into the container created in step 1
-* Step 3. Deploy the [Cisco IE4000 Switch PLC application](https://github.com/imapex/ahod_PLC_IOX) onto the IE4000 switch
+* Step 1. Deploy the [Cisco IE4000 Switch PLC application](https://github.com/imapex/ahod_PLC_IOX) onto the IE4000 switch
+* Step 2. Create and build the docker container on Mantle by following the instructions in [Web Service Container Build scripts](https://github.com/imapex/ahod_websvc)
+* Step 3. Deploy the [Web Service Application](https://github.com/imapex/ahod_webapp) into the container created in step 1
+
 
 #### Phase 1 Diagram
 
